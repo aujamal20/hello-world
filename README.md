@@ -1,2 +1,2 @@
 # hello-world
-Invest in your mind!
+You should really readMe...
